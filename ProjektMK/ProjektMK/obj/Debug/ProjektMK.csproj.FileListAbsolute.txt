@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\ProjektMK\ProjektMK\bin\Debug\ProjektMK.exe.config
+C:\Users\local\Desktop\ProjektMK\ProjektMK\bin\Debug\ProjektMK.exe
+C:\Users\local\Desktop\ProjektMK\ProjektMK\bin\Debug\ProjektMK.pdb
+C:\Users\local\Desktop\ProjektMK\ProjektMK\obj\Debug\ProjektMK.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\ProjektMK\ProjektMK\obj\Debug\ProjektMK.exe
+C:\Users\local\Desktop\ProjektMK\ProjektMK\obj\Debug\ProjektMK.pdb
